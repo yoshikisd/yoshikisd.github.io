@@ -14,4 +14,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-You gotta put stuff over here Dayne. 
+Website is currently being built from a template. Please don't mind the peeling paint, asbestos confetti, and cracked concrete; Dayne will get his act together soon.
