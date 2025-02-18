@@ -1,200 +1,220 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Dayne Yoshiki Sasaki",
+    "email": "dayne [dot] sasaki [at] outlook [dot] com",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "city": "Berkeley",
+      "region": "California"  
+    }
   },
-  "work": [
+  "skills": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "<h5>Instrumentation</h5>"
+    },
+    {
+      "name": " "
+    },
+    {
+      "name": "Physical vapor deposition",
+      "keywords": [
+        "Pulsed laser deposition"
+      ]
+    },
+    {
+      "name": "Magnetometry",
+      "keywords": [
+        "Vibrating sample magnetometry"
+      ]
+    },
+    {
+      "name": "Microscopy",
+      "keywords": [
+        "Electron microscopy (scanning, x-ray photoemission)",
+        "Scanning probe microscopy (atomic force, magnetic force)",
+        "Optical microscopy",
+        "Scanning transmission x-ray microscopy",
+        "Coherent lensless x-ray imaging (ptychography, holography)"
+      ]
+    },
+    {
+      "name": "X-ray scattering",
+      "keywords": [
+        "Thin film x-ray diffraction ",
+        "X-ray reflectivity",
+        "X-ray resonant scattering",
+        "X-ray microdiffraction"
+      ]
+    },
+    {
+      "name": "Spectroscopy",
+      "keywords": [
+        "X-ray absorption spectroscopy (XMCD, XMLD)",
+        "Ferromagnetic resonance (broadband, x-ray detected)"
+      ]
+    },
+    {
+      "name": "Maintenance and/or repair",
+      "keywords": ["High vacuum systems",
+      "Pulsed laser deposition system",
+      "X-ray diffraction system (Bruker D8 Discover)"
+      ]
+    },
+    {
+      "name": "<h5>Computational</h5>"
+    },
+    {
+      "name": " "
+    },
+    {
+      "name": "Programming languages",
+      "keywords": [
+        "Python (familiar with PyTorch)",
+        "MATLAB (Parallel Computing Toolbox, App Designer)"
+      ]
+    },
+    {
+      "name": "Computer Aided Design",
+      "keywords": [
+        "Autodesk Inventor",
+        "SolidWorks",
+        "KLayout"
+      ]
+    },
+    {
+      "name": "Simulation software",
+      "keywords": [
+        "MATLAB (Metropolis algorithm)",
+        "ANSYS Mechanical",
+        "GenX",
+        "Stopping and Range of Ions in Matter",
+        "MuMax3",
+        "Oasys and SHADOW ray tracing"
+      ]
     }
   ],
-  "volunteer": [
+  "work": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Advanced Light Source, Lawrence Berkeley National Laboratory <br\>Department of Physics, Massachusetts Institute of Technology",
+      "position": "Postdoctoral Research Associate",
+      "location": "Berkeley, CA",
+      "url": "https://als.lbl.gov/science/photon-science-programs/scattering-program/",
+      "startDate": "2024-04",
+      "endDate": "Present",
+      "summary": "Member of a team developing reflection-mode x-ray lensless imaging capabilities.",
+      "highlights": ["Collaboratively worked with members of the Microscopy and Scattering Programs to perform research and development of soft x-ray coherent lensless imaging techniques.",
+       "Designed vacuum components using CAD to enable existing instruments to perform coherent lensless imaging in reflection geometry."]
+    },
+    {
+      "name": "Advanced Light Source, Lawrence Berkeley Natl. Laboratory",
+      "position": "Research Fellow",
+      "location": "Berkeley, CA",
+      "url": "https://als.lbl.gov/science/photon-science-programs/scattering-program/",
+      "startDate": "2022-09",
+      "endDate": "2023-09",
+      "summary": "Performed development work on x-ray magnetic spectroscopy instruments at the Advanced Light Source Beamline 4.0.2.",
+      "highlights": ["Designed and tested hardware changes for a hybrid x-ray/microwave spectrometer, enhancing the measurement sensitivity of the tool by ~8x.",
+       "Worked with vendors and internal engineering staff to design hardware changes for upgrading an x-ray detector in an high vacuum XRD tool."]
+    },
+    {
+      "name": "Department of Materials Science and Engineering, University of California Davis",
+      "position": "Graduate Research Assistant",
+      "url": "https://als.lbl.gov/science/photon-science-programs/scattering-program/",
+      "startDate": "2019-09",
+      "location": "Davis, CA",
+      "endDate": "2024-03",
+      "summary": "Combined experimental and computational methods to understand magnetism in lithographically-patterned nanostructures.",
+      "highlights": ["Led scientific collaborations to lithographically pattern oxide thin films and investigate their geometry-dependent magnetism with x-ray photoemission electron microscopy.",
+      "Used micromagnetic simulations to understand how nanoscale magnetism in patterned films can be engineered through material properties, pattern geometry, and magnetic interactions.",
+      "Took ownership of X-ray diffraction and pulsed laser deposition equipment, ensuring the health of these tools through maintenance and repairs.",
+      "Automated magnetic microscopy image analysis using GPU-accelerated MATLAB code with a GUI front-end.",
+      "Synthesized thin films for collaborations aimed at developing devices with voltage-controlled magnetism, producing 6 scientific papers."]
+    },
+    {
+      "name": "Departments of Chemistry, Chemical Engineering, and Materials Science and Engineering, University of California Davis",
+      "position": "Teaching Assistant",
+      "location": "Davis, CA",
+      "startDate": "2018-09",
+      "endDate": "2021-12",
+      "summary": "",
+      "highlights": ["Led chemistry laboratory sections with over 20 students, ensuring student safety by providing training on chemical and laboratory safety.",
+       "Planned and led discussion sections teaching students concepts such as electronic/magnetic properties of materials, chemistry, and MATLAB programming"]
+    },
+    {
+      "name": "Department of Mechanical Engineering, University of Hawaii at Manoa",
+      "position": "Undergraduate Research Assistant",
+      "location": "Honolulu, HI",
+      "url": "https://uhatmanoa.wixsite.com/ammi",
+      "startDate": "2016-08",
+      "endDate": "2017-12",
+      "summary": "Developed robotic instruments called active needles to enable minimally-invasive surgical procedures.",
+      "highlights": ["Worked in a team of several students to design a robotic surgical instrument called an active needle, whose design was awarded 2nd place in an ASME engineering design competition.",
+       "Simulated the behavior of an active needle design with shape memory alloy actuators using ANSYS mechanical, resulting in 1 scientific publication."]
+    },
+    {
+      "name": "United States Army National Guard",
+      "position": "Motor Transport Operator",
+      "location": "Mililani, HI",
+      "startDate": "2012-03",
+      "endDate": "2018-03",
+      "summary": "",
+      "highlights": ["Worked in teams of 5-20 Soldiers to provide logistical support for artillery teams by safely transporting and delivering munitions with military vehicles"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of California Davis",
+      "location": "Davis, CA",
+      "studyType": "Doctor of Philosophy in Materials Science and Engineering",
+      "startDate": "2018",
+      "endDate": "2024",
+      "courses": ["Thesis: Spin Texture Formation in Perovskite-Based Artificial Spin Ice Structures", "Advisor: Prof. Yayoi Takamura"]
+    },
+    {
+      "institution": "University of Hawaii at Manoa",
+      "location": "Honolulu, HI",
+      "studyType": "Bachelor of Science in Mechanical Engineering",
+      "startDate": "2013",
+      "endDate": "2017"
     }
+    
   ],
+  
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Advanced Light Source Collaborative Postdoctoral Fellowship",
+      "date": "2024-11",
+      "awarder": "Advanced Light Source, Lawrence Berkeley National Laboratory",
+      "url": "https://als.lbl.gov/about/career-opportunities/als-collaborative-postdoctoral-fellowship-program/"
+    },
+    {
+      "title": "Office of Science Graduate Student Research Fellowship",
+      "date": "2022-09",
+      "awarder": "United States Department of Energy",
+      "url": "https://science.osti.gov/wdts/scgsr"
+    },
+    {
+      "title": "Travel Award to present at the 67th Annual Conference on Magnetism and Magnetic Materials (MMM)",
+      "date": "2022-12",
+      "awarder": "University of California Davis Graduate Studies"
+    },
+    {
+      "title": "Graduate Assistance in Areas of National Need Fellowship",
+      "date": "2020-09",
+      "awarder": "United States Department of Education",
+      "url": "https://science.osti.gov/wdts/scgsr"
+    },
+    {
+      "title": "Academic Scholarship",
+      "date": "2019-09",
+      "awarder": "Pedrozzi Foundation",
+      "url": "https://pedrozzifoundation.org/"
+    },
+    {
+      "title": "Second Place in the Francis Rhodes Montgomery Design Competition",
+      "date": "2017-05",
+      "awarder": "American Society of Mechanical Engineers (ASME) Hawaii Francis R. Montgomery Foundation",
+      "url": "https://www.ite-hawaii.org/wp-content/uploads/2017/05/WilikiJune2017FNL.pdf"
     }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+    
   ]
 }
