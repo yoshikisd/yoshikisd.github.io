@@ -2,7 +2,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - cdtools-developers/cdtools
-  - ALS-Scattering/BL7011
   - yoshikisd/ASIWizard
   - yoshikisd/KLayout-macros
   - yoshikisd/P3B-Auto-Aligner
