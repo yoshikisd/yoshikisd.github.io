@@ -2,11 +2,11 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of the scientific, coding, and instrumentation work I've done over the years
-nav: false
+description: <p>Here you'll find some of the scientific and development work I've done over the years (at least the ones I can share publicly and have had the time to write up here). Hopefully you'll find something here that's interesting or at least useful. Some of these projects are discussed in a blog-style manner.</p>
+nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: true
+display_categories: [Tool operation/development, Software development, Scientific research]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
