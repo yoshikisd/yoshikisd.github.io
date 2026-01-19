@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Here you&#39;ll find some of the scientific and development work I&#39;ve done over the years (at least the ones I can share publicly and have had the time to write up here). Hopefully you&#39;ll find something here that&#39;s interesting or at least useful. Some of these projects are discussed in a blog-style manner.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
@@ -371,51 +378,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-asiwizard",
+          title: 'ASIWizard',
+          description: "🚧 Under construction 🚧 An image analysis automation software for analyzing &quot;Artificial Spin Ice&quot; nanomagnetic arrays, written in the form of a MATLAB GUI wizard.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/asiwizard/";
+            },},{id: "projects-contributions-to-cdtools",
+          title: 'Contributions to CDTools',
+          description: "🚧 Under construction 🚧 An open-source PyTorch-based repository for computational microscopy data processing, to which I contributed several features, including multi-GPU support.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/cdtools/";
+            },},{id: "projects-energetics-of-ising-vortex-interactions-in-la0-7sr0-3mno3-brickwork-artificial-spin-ices",
+          title: 'Energetics of Ising-vortex interactions in La0.7Sr0.3MnO3 brickwork artificial spin ices',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/energetics_csts/";
+            },},{id: "projects-various-projects-on-a-pulsed-laser-deposition-tool",
+          title: 'Various projects on a pulsed laser deposition tool',
+          description: "A DUV-laser-based physical vapor deposition tool that I took care of during grad shool, performing both maintenance, development, and making epitaxial film growth recipes.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/pld/";
+            },},{id: "projects-enhancing-the-sensitivity-of-a-hybrid-ghz-x-ray-spectrometer",
+          title: 'Enhancing the sensitivity of a hybrid GHz/x-ray spectrometer',
+          description: "A failed materials science project pivoted into a development effort aimed at resolving measurement sensitivity issues in a spectrometer tool key to the project&#39;s success.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/xfmr/";
+            },},{id: "projects-formation-of-complex-spin-textures-in-la0-7sr0-3mno3-nanomagnetic-arrays",
+          title: 'Formation of complex spin textures in La0.7Sr0.3MnO3 nanomagnetic arrays',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/xpeem_csts/";
             },},{
         id: 'social-email',
         title: 'email',
