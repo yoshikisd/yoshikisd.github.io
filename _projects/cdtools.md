@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributions to CDTools
-description: An open-source PyTorch-based repository for computational microscopy data processing, to which I contributed several features, including multi-GPU support.
+description: 🚧 Under construction 🚧 <br>An open-source PyTorch-based repository for computational microscopy data processing, to which I contributed several features, including multi-GPU support.
 img: assets/img/cdtools_multigpu.png
 importance: 1
 category: Software development

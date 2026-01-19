@@ -5,8 +5,8 @@ permalink: /projects/
 description: <p>Here you'll find some of the scientific and development work I've done over the years (at least the ones I can share publicly and have had the time to write up here). Hopefully you'll find something here that's interesting or at least useful. Some of these projects are discussed in a blog-style manner.</p>
 nav: true
 nav_order: 3
-display_categories: [Tool operation/development, Software development, Scientific research]
-horizontal: false
+display_categories: [Tool operation/development, Software development, Scientific research projects]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ASIWizard
-description: An image analysis automation software for analyzing "Artificial Spin Ice" nanomagnetic arrays, written in the form of a MATLAB GUI wizard.
+description:  🚧 Under construction 🚧 <br>An image analysis automation software for analyzing "Artificial Spin Ice" nanomagnetic arrays, written in the form of a MATLAB GUI wizard.
 img: assets/img/asiwizard_finalinspection.png
 importance: 1
 category: Software development
