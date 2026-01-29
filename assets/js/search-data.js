@@ -398,6 +398,11 @@ ninja.data = [{
           description: "A DUV-laser-based physical vapor deposition tool that I took care of during grad shool, performing both maintenance, development, and making epitaxial film growth recipes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pld/";
+            },},{id: "projects-r-amp-d-of-soft-x-ray-reflection-ptychographic-microscopes-at-the-advanced-light-source",
+          title: 'R&amp;amp;D of soft X-ray reflection ptychographic microscopes at the Advanced Light Source',
+          description: "An R&amp;D project aimed towards developing new soft X-ray imaging capabilities at the Advanced Light Source. This work specifically developed soft X-ray microscopes to operate in reflection to image X-ray opaque samples that are inaccessible to these conventially transmission-based tools.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/reflection_imaging/";
             },},{id: "projects-enhancing-the-sensitivity-of-a-hybrid-ghz-x-ray-spectrometer",
           title: 'Enhancing the sensitivity of a hybrid GHz/x-ray spectrometer',
           description: "A failed materials science project pivoted into a development effort aimed at resolving measurement sensitivity issues in a spectrometer tool key to the project&#39;s success.",
