@@ -122,11 +122,18 @@
   ],
   "work": [
     {
+      "name": "EUV Tech",
+      "position": "Systems Engineer",
+      "location": "Martinez, CA",
+      "startDate": "2026-04",
+      "endDate": "Present"
+    },
+    {
       "name": "Advanced Light Source, Lawrence Berkeley National Laboratory <br\\>Department of Physics, Massachusetts Institute of Technology  <br\\>(Dual appointment)",
       "position": "Postdoctoral Research Associate",
       "location": "Berkeley, CA",
       "startDate": "2024-04",
-      "endDate": "Present",
+      "endDate": "2026-03",
       "summary": "Member of an R&D team developing new x-ray microscopy capabilities for the Advanced Light Source. Additionally provided support to research collaborations through tool operation/maintenance.",
       "highlights": ["Developed existing x-ray tools into microscopy R&D testbeds by designing in-vacuum detector mounting hardware with SolidWorks and coordinating detector software integration.",
        "Used the testbed to design and execute successful proof-of-concept demonstrations of new reflection-mode microscopy capabilities at the Advanced Light Source.",
